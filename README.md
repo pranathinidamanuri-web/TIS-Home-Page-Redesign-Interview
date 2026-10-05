@@ -9,6 +9,9 @@ A modern, animated, and responsive redesign of the Tulas International School ho
 * **Live URL:** https://tis-home-page-redesign-interview.vercel.app/
 * **Repository:** https://github.com/pranathinidamanuri-web/TIS-Home-Page-Redesign-Interview
 
+* 🎥 Project Demo Video:
+https://www.loom.com/share/bec01a3f6c004e2295f2764947812b19
+
 ---
 
 ## 🛠️ Tech Stack
